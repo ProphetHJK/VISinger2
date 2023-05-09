@@ -1,0 +1,9 @@
+ipython
+librosa
+matplotlib
+numpy
+pyworld
+scipy
+soundfile
+torch
+tqdm
